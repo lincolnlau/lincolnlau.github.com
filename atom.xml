@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
@@ -14,3 +15,21 @@
 
   
 </feed>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[lincolnlau's Blog]]></title>
+  <link href="http://lincolnlau.github.com/atom.xml" rel="self"/>
+  <link href="http://lincolnlau.github.com/"/>
+  <updated>2013-03-20T15:36:52+08:00</updated>
+  <id>http://lincolnlau.github.com/</id>
+  <author>
+    <name><![CDATA[Lincoln Lau]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
+>>>>>>> 3e9c6751e492901c7c1bd01ef13e16b60f8f98e5
